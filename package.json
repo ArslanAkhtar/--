@@ -1,0 +1,24 @@
+{
+  "name": "react-svelte",
+  "version": "0.0.1",
+  "description": "Use Svelte components inside a React app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArslanAkhtar/react-svelte.git"
+  },
+  "keywords": [
+    "react",
+    "svelte",
+    "components"
+  ],
+  "author": "Muhammad Arslan",
+  "license": "Muhammad Arslan",
+  "homepage": "https://muhammadarslan.nl/#home",
+  "peerDependencies": {
+    "react": "^16.4.2"
+  }
+}
